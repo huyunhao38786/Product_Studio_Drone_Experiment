@@ -1,0 +1,5 @@
+{
+    "frame_roof": ["roof_damage"],
+    "frame_crack": ["structural_crack"],
+    "frame_water": ["water_damage"]
+}
